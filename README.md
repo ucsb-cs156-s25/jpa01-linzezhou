@@ -1,6 +1,6 @@
 # jpa01-linzezhou
 
-Deployed at: https://jpa01-lzhou.dokku-07.cs.ucsb.edu
+Deployed at: http://jpa01-linzezhou.dokku-07.cs.ucsb.edu/
 
 
 # About this repo
